@@ -13,3 +13,5 @@ plot(x, z)
 # Some modifications to the code
 c<-rpois(10,1)
 plot(x,c)
+
+# A comment
